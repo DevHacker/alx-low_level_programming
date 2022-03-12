@@ -1,7 +1,8 @@
 #include<stdio.h>
 /**
- * Main method is the entry point of the program
- *
+ * Main - Entry point
+ *Description: Print the alphabet in lowercase followed by \m character
+ *Return: Always 0 (success)
  */
 int main(void)
 {
@@ -11,6 +12,7 @@ int main(void)
 	{
 		putchar(car);
 	}
-	return 0;
+	putchar('\n');
+	return (0);
 
 }
