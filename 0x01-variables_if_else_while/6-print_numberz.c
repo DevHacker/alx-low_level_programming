@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main -Entry point
- * Description: program that print all single digit numbers of base 10 only with the putchar function
+ * Description: program that print all single digit numbers of base 10
  * Return: Always 0 (Success)
  */
 int main(void)
