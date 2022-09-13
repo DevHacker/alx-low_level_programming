@@ -26,7 +26,6 @@ int print_sign(int n)
 		}
 		else
 		{
-			_putchar(NUL);
 			result = 0;
 			break;
 		}
