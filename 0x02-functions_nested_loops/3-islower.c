@@ -4,7 +4,7 @@
  * _islower - Entry point
  * Description: Check if chacracter is in lowercase
  * @c: refers to the function's parameter
- * Retrun: return 1 if success and 0 if not
+ * Return: return 1 if success and 0 if not
  */
 int _islower(int c)
 {
