@@ -3,8 +3,8 @@
 /**
  * _abs - Entry point
  * Description: return the absolute value
- * @n - Refer to the function's parameter
- * Return - Always 0 (Success)
+ * @n: Refer to the function's parameter
+ * Return: return the result
  */
 int _abs(int n)
 {
