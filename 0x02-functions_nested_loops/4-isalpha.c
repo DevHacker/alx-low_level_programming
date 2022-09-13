@@ -7,6 +7,7 @@
 int _isalpha(int c)
 {
 	int result;
+	
 	if (c >= 'a' && c <= 'z')
 	{
 		result = 1;
@@ -19,5 +20,5 @@ int _isalpha(int c)
 	{
 		return 0;
 	}
-	return result;
+	return (result);
 }
