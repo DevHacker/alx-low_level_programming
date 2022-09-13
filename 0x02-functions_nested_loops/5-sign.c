@@ -31,5 +31,5 @@ int print_sign(int n)
 			break;
 		}
 	}
-	return result;
+	return (result);
 }
